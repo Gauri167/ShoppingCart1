@@ -1,0 +1,4 @@
+com\proj\daoimpl\UserDAOImpl.class
+com\proj\domain\User.class
+com\proj\config\ApplicationContextConfig.class
+com\proj\dao\UserDAO.class
