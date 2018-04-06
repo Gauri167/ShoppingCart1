@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\SupplierDAOTestCase.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\ApplicationContextTestCaseTest.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\TestConfiguration.java
@@ -5,3 +6,7 @@ C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\ProductDAOTestCase.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\UserDAOTestCase.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartBackEnd\src\test\java\com\shop\shoppingcart\CategoryDAOTestCase.java
+=======
+C:\Users\Gauri Gaur\eclipse-workspace\ECommProject\ShoppingCartBackEnd\src\test\java\com\proj\shoppingcart\TestConfiguration.java
+C:\Users\Gauri Gaur\eclipse-workspace\ECommProject\ShoppingCartBackEnd\src\test\java\com\proj\shoppingcart\UserDAOTestCase.java
+>>>>>>> ae6bd7aa61bf52b0302bbe696bf8804ed583d05b

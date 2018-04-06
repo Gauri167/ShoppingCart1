@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\shop\dao\ProductDAO.class
 com\shop\dao\SupplierDAO.class
 com\shop\dao\CartDAO.class
@@ -14,3 +15,9 @@ com\shop\config\ApplicationContextConfig.class
 com\shop\daoimpl\SupplierDAOImpl.class
 com\shop\domain\Cart.class
 com\shop\domain\Product.class
+=======
+com\proj\daoimpl\UserDAOImpl.class
+com\proj\domain\User.class
+com\proj\config\ApplicationContextConfig.class
+com\proj\dao\UserDAO.class
+>>>>>>> ae6bd7aa61bf52b0302bbe696bf8804ed583d05b

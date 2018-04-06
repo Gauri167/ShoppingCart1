@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\controller\HomeController.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\controller\AdminController.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\controller\UserController.java
@@ -6,3 +7,7 @@ C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\mai
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\utility\FileUtil.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\controller\ProductController.java
 C:\Users\Gauri Gaur\eclipse-workspace\ECommProject2\ShoppingCartFrontEnd\src\main\java\com\shop\controller\SupplierController.java
+=======
+C:\Users\Gauri Gaur\eclipse-workspace\ECommProject\ShoppingCartFrontEnd\src\main\java\com\proj\controller\HomeController.java
+C:\Users\Gauri Gaur\eclipse-workspace\ECommProject\ShoppingCartFrontEnd\src\main\java\com\proj\controller\UserController.java
+>>>>>>> ae6bd7aa61bf52b0302bbe696bf8804ed583d05b

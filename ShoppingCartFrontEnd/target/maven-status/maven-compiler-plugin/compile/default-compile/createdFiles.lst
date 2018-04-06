@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\shop\controller\CartController.class
 com\shop\controller\SupplierController.class
 com\shop\controller\AdminController.class
@@ -6,3 +7,7 @@ com\shop\controller\HomeController.class
 com\shop\utility\FileUtil.class
 com\shop\controller\ProductController.class
 com\shop\controller\UserController.class
+=======
+com\proj\controller\UserController.class
+com\proj\controller\HomeController.class
+>>>>>>> ae6bd7aa61bf52b0302bbe696bf8804ed583d05b
